@@ -1,4 +1,4 @@
-# IT388-Parallel-Processing
+# Parallel-Processing
 
 mpi_sum.c: MPI code to compute the sum of the first N
 integer numbers (1 + 2 + 3 + … + N) using multiple processors. The work of computing the sum
